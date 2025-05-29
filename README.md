@@ -82,6 +82,6 @@ You can also use this as a starter template for your own Flutter apps!
 
 ## 📫 Contact
 
-* 🎓 [Connect with me (LinkedIn)](www.linkedin.com/in/samin-chandeepa)
+* 🎓 [Connect with me (LinkedIn)](https://www.linkedin.com/in/samin-chandeepa)
 * 📺 [Adomic YouTube Channel](https://www.youtube.com/@adomicarts)
 
