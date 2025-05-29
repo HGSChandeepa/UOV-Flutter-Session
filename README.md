@@ -5,7 +5,7 @@ This Flutter Notes App project is designed to help you understand the fundamenta
 
 ## 📽️ Session Presentation  [View PDF](https://github.com/HGSChandeepa/UOV-Flutter-Session/blob/main/res/UVA%20Presentation.pdf)
 
-### 1. DP Education IT Campus — Flutter Series (By Me)
+### 1. DP Education IT Campus — Flutter Series
 
 A beginner-friendly, structured Flutter series to learn Flutter from scratch with practical examples.
 
