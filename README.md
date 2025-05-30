@@ -1,22 +1,22 @@
 # 📱 UOV Flutter Session
 
 Here is the full code repository from the flutter session for UOV .
-This Flutter Notes App project is designed to help you understand the fundamentals of building, structuring, and managing a Flutter application with clean architecture and state management.
+This Flutter Notes App project is designed to help you understand the fundamentals of building, structuring, and managing a Flutter application with clean architecture.
 
-## 🎓 Learning Resources
+## 📽️ Session Presentation  [View PDF](https://github.com/HGSChandeepa/UOV-Flutter-Session/blob/main/res/UVA%20Presentation.pdf)
 
-### 1. DP Education IT Campus — Flutter Series (By Me)
+### 1. DP Education IT Campus — Flutter Series
 
 A beginner-friendly, structured Flutter series to learn Flutter from scratch with practical examples.
 
-[![DP Education Flutter Course](dp.png)](https://youtube.com/playlist?list=PLWOPiU7tDzap4WdZn4ZbdUj9dfqgDLxKW&si=CTY42KTJ4Wyx-2cb)
+[![DP Education Flutter Course](https://github.com/HGSChandeepa/UOV-Flutter-Session/blob/main/res/dp.png)](https://youtube.com/playlist?list=PLWOPiU7tDzap4WdZn4ZbdUj9dfqgDLxKW&si=CTY42KTJ4Wyx-2cb)
 🔗 [**Watch the Course on YouTube**](https://youtube.com/playlist?list=PLWOPiU7tDzap4WdZn4ZbdUj9dfqgDLxKW&si=CTY42KTJ4Wyx-2cb)
 
 ### 2. Adomic YouTube Channel — Advanced Projects & Tutorials
 
 Here I post more advanced Flutter apps, real-world tutorials, and dev tips to help you level up as a software engineer.
 
-[![Adomic YouTube Channel](adomic.png)](https://www.youtube.com/@adomicarts)
+[![Adomic YouTube Channel](https://github.com/HGSChandeepa/UOV-Flutter-Session/blob/main/res/adomic.png)](https://www.youtube.com/@adomicarts)
 🔗 [**Visit Adomic Channel**](https://www.youtube.com/@adomicarts)
 
 ## 📝 About the Project
@@ -82,9 +82,6 @@ You can also use this as a starter template for your own Flutter apps!
 
 ## 📫 Contact
 
-* 🎓 [Learn from DP Education Flutter Series](https://youtube.com/playlist?list=PLWOPiU7tDzap4WdZn4ZbdUj9dfqgDLxKW&si=CTY42KTJ4Wyx-2cb)
-* 📺 [Subscribe to Adomic YouTube Channel](https://www.youtube.com/@adomicarts)
+* 🎓 [Connect with me (LinkedIn)](https://www.linkedin.com/in/samin-chandeepa)
+* 📺 [Adomic YouTube Channel](https://www.youtube.com/@adomicarts)
 
-
-
-Let me know if you'd like to include badges, add a license section, or convert this into a `README.md` file!
