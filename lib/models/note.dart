@@ -32,6 +32,6 @@ class Note {
   void update({required String title, required String description}) {
     this.title = title;
     this.description = description;
-    this.updatedAt = DateTime.now();
+    updatedAt = DateTime.now();
   }
 }

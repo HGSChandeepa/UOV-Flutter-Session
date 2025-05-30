@@ -28,7 +28,7 @@ class _NotePageState extends State<NotePage> {
 
   //show a dialog
   void _showAddNoteDialog({String? editingId}) {
-    print("called");
+    
     // id the editingId is not null it means we are editing a note
     if (editingId != null) {
       final note = _noteService.getNotes().firstWhere(
